@@ -1,4 +1,14 @@
+// import { useEffect } from "react"
+
 function AdviceSection() {
+
+  /*
+  useEffect(() => {
+    const fetchData = async () => {
+
+    }
+  })
+*/
   return (
     <section>
       <h2>Advice Section</h2>
